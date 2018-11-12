@@ -30,13 +30,14 @@ img:nth-child(4) {
 
   img {
     display: inline-block;
-    width: 48%;
+    width: 49%;
   }
 
   img:nth-child(2),
   img:nth-child(4) {
     display: inline-block;
   }
+
 }
 
 @media only screen and (min-width: 38em) {
@@ -49,16 +50,18 @@ img:nth-child(4) {
   img:nth-child(1) {
     display: none;
   }
+
 }
 
 @media only screen and (min-width: 60em) {
 
   img {
     display: inline-block;
-    width: 25%;
+    width: 23%;
   }
 
   img:nth-child(1) {
     display: inline-block;
   }
+
 }
