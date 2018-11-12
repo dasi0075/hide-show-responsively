@@ -17,6 +17,11 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin-left: .5em;
+  margin-right: .5em;
+}
+
 img {
   width: 100%;
 }
