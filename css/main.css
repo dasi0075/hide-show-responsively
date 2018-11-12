@@ -24,11 +24,10 @@ body {
 @media only screen and (min-width: 20em) {
 
   img {
-    display: inline;
-    width: 100%;
+    display: inline-block;
+    width: 50%;
 
   }
-
 }
 
 @media only screen and (min-width: 25em) {
@@ -38,7 +37,6 @@ body {
     width: 45%;
 
   }
-
 }
 
 
@@ -48,17 +46,14 @@ body {
     display: inline-block;
     width: 30%;
   }
-
-
 }
 
 @media only screen and (min-width: 60em) {
 
   img {
     display: inline-block;
-    width: 23%
+    width: 23%;
   }
-
 }
 
 @media only screen and (min-width: 90em) {
@@ -67,5 +62,4 @@ body {
     display: inline-block;
     width: 23%
   }
-
 }
